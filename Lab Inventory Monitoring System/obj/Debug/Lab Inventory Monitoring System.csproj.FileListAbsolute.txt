@@ -1,0 +1,14 @@
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\bin\Debug\Lab Inventory Monitoring System.exe.config
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\bin\Debug\Lab Inventory Monitoring System.exe
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\bin\Debug\Lab Inventory Monitoring System.pdb
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab Inventory Monitoring System.csprojResolveAssemblyReference.cache
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab_Inventory_Monitoring_System.Form1.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab_Inventory_Monitoring_System.Properties.Resources.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab Inventory Monitoring System.csproj.GenerateResource.Cache
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab Inventory Monitoring System.exe
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab Inventory Monitoring System.pdb
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab_Inventory_Monitoring_System.AddProduct.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System\Lab Inventory Monitoring System\obj\Debug\Lab_Inventory_Monitoring_System.modifyProduct.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System (Final)\Lab Inventory Monitoring System\bin\Debug\Lab Inventory Monitoring System.exe.config
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System (Final)\Lab Inventory Monitoring System\obj\Debug\Lab Inventory Monitoring System.exe
+D:\GATSAN Technologies\GATSAN Technologies\Projects\Lab Inventory Monitoring\Lab Inventory Monitoring System (Final)\Lab Inventory Monitoring System\obj\Debug\Lab Inventory Monitoring System.pdb
