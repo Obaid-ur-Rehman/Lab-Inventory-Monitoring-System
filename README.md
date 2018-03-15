@@ -8,6 +8,6 @@ Please syncronize this project with your existing visual studio project or downl
 
 ## Hardware Requirements
 * [Arduino UNO](https://gatsan.com/arduino-uno)
-* [Bluetooth 4.1 BLE Module](https://gatsan.com/wireless/bluetooth/HM-10-BLE-CC2540-CC2541)
+* [Bluetooth 4.0 BLE Module](https://gatsan.com/wireless/bluetooth/HM-10-BLE-CC2540-CC2541)
 * [Jumper Wires](https://gatsan.com/cables-connectors/jumper-female)
 * [BLE Tags](https://gatsan.com/wireless/bluetooth/ble-itag) 1 tag should be used for each product
